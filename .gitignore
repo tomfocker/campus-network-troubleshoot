@@ -1,0 +1,14 @@
+# PowerShell
+*.ps1.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.log
